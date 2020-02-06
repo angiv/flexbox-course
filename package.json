@@ -1,0 +1,26 @@
+{
+  "name": "flexbox-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angiv/flexbox-course.git"
+  },
+  "author": "Angela Ivanesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angiv/flexbox-course/issues"
+  },
+  "homepage": "https://github.com/angiv/flexbox-course#readme"
+}
